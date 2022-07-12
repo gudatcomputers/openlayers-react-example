@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "name": "Jason McKee",
+      "role": "Engineer",
+      "location": [-74.0060, 40.7128]
+    },
+    {
+      "name": "Another Person",
+      "role": "Designer",
+      "location": [-74.0090, 40.7230]
+    },
+    {
+      "name": "Yet Another Person",
+      "role": "Product Manager",
+      "location": [-74.0090, 40.7030]
+    }
+  ]
+}
